@@ -11,3 +11,9 @@ Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
 
 <a href="https://github.com/esp32king/Esp32-WiFi-Chat-AdminPanel/raw/refs/heads/main/Esp32-WiFi-Chat-AdminPanle.bin">ESP32-WiFi-Chat-AdminPanel.bin</a> → 0x10000
 
+### Admin Panel
+ <a href="http://192.168.4.1/admin/">192.168.4.1/admin</a>
+ 
+ admin username ---  admin
+ admin pass     ---  supersecret
+
