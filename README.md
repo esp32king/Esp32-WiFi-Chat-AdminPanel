@@ -14,6 +14,6 @@ Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
 ### Admin Panel
  <a href="http://192.168.4.1/admin/">192.168.4.1/admin</a>
  
- admin username ---  admin
+ <br>admin username ---  admin </br>
  admin pass     ---  supersecret
 
