@@ -9,5 +9,5 @@ Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
 
 <a href="https://github.com/esp32king/Esp32-WiFi-Chat-AdminPanel/raw/refs/heads/main/bootloader.bin">partitions.bin</a> → 0x8000
 
-<a href="https://github.com/esp32king/Esp32-WiFi-Chat-AdminPanel/raw/refs/heads/main/Esp32-WiFi-Chat-AdminPanle.bin">ESP32-WiFi-Chat.bin</a> → 0x10000
+<a href="https://github.com/esp32king/Esp32-WiFi-Chat-AdminPanel/raw/refs/heads/main/Esp32-WiFi-Chat-AdminPanle.bin">ESP32-WiFi-Chat-AdminPanel.bin</a> → 0x10000
 
